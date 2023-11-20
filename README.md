@@ -1,6 +1,6 @@
 # Bike-predection
 
-Overview:
+# Overview:
 In the United States, various bike-sharing companies like Divvy, Zagster and Lime Bikes have gained prominence, offering cost-efficient and ecofriendly transportation options. This shift towards bike-sharing has led to an upsurge in demand for bicycles, but this demand isn't uniform across all regions. Managing the distribution of bikes effectively to meet demand
 while maximizing profits poses a significant challenge for these
 companies.
@@ -17,7 +17,7 @@ contributes to the sustainability and success of bike-sharing programs in
 the ever-evolving transportation landscape.
 
 
-Objective:
+# Objective:
 The objective of this project is to leverage the power of data science,
 machine learning, and deep learning to develop an effective demand
 prediction system for bike rental companies.
